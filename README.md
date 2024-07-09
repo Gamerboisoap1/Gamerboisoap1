@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is kunal patil I'm from India💌</h2>
+<h2 align="left">Hi 👋! My name is Kunal Patil. I'm from India 💌</h2>
 
 ###
 
@@ -58,12 +58,12 @@
   <a href="https://www.linkedin.com/in/kunal-nitin-patil/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="http://gamerboisoap.in" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website button"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gamerboisoap1/Gamerboisoap1/output/snake.svg" alt="Snake animation" />
-
-###
